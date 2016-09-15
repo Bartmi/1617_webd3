@@ -9,34 +9,19 @@
   content: |
     # Kick-off
     - Algemene informatie
-    - Briefing werkstuk
-
-- week: "01"
-  date: 2016-09-28
-  content: |
-    # Praktijk
+    - WIP
 
 # Week 02
 - week: "02"
   date: 2016-10-03
   content: |
-    # College
-
-- week: "02"
-  date: 2016-10-05
-  content: |
-    # Praktijk
+    # WIP
 
 # Week 03
 - week: "03"
   date: 2016-10-10
   content: |
-    # College
-
-- week: "03"
-  date: 2016-10-12
-  content: |
-    # Praktijk
+    # WIP
 
 # Week 04
 - week: "04"
@@ -51,18 +36,18 @@
 - week: "04"
   date: 2016-10-19
   content: |
-    # Praktijk
+    # WIP
 
 # Week 05
 - week: "05"
   date: 2016-10-24
   content: |
-    # College
+    # WIP
 
 - week: "05"
   date: 2016-10-26
   content: |
-    # Praktijk
+    # WIP
 
 # Autumn
 - icon: leaf
@@ -86,7 +71,7 @@
   date: 2016-11-09
   week: 7
   content: |
-    # Praktijk
+    # WIP
 
 # - date: 2016-11-11
 #   icon: calendar-check-o
@@ -100,34 +85,34 @@
 - week: "07"
   date: 2016-11-14
   content: |
-     # Praktijk
+     # WIP
 
 - week: "07"
   date: 2016-11-16
   content: |
-     # Praktijk
+     # WIP
 
 # Week 08
 - week: "08"
   date: 2016-11-21
   content: |
-     # Praktijk
+     # WIP
 
 - week: "08"
   date: 2016-11-23
   content: |
-     # Praktijk
+     # WIP
 
 # Week 09
 - week: "09"
   date: 2016-11-28
   content: |
-     # Praktijk
+     # WIP
 
 - week: "09"
   date: 2016-11-30
   content: |
-     # <Praktijk
+     # WIP
 
 # Week 10
 - week: "10"
@@ -142,29 +127,29 @@
 - week: "10"
   date: 2016-12-07
   content: |
-    # Praktijk
+    # WIP
 
 # Week 11
 - week: "11"
   date: 2016-12-12
   content: |
-    # Praktijk
+    # WIP
 
 - week: "11"
   date: 2016-12-14
   content: |
-    # Praktijk
+    # WIP
 
 # Week 12
 - week: "12"
   date: 2016-12-19
   content: |
-    # Praktijk
+   # WIP
 
 - week: "11"
   date: 2016-12-21
   content: |
-    # Praktijk
+   # WIP
 
 # Hand in 1
 - date: 2016-12-23
