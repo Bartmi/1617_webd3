@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html manifest="{{ '/offline.appcache' | prepend: site.baseurl }}" lang="{{ site.language }}">
+    {% include components/head.html %}
+<body class="c-page">
+    {% include components/navbar.html %}
+    <div class="container-fluid">
+        <div class="row">
+            <nav class="c-page__sidebar col-sm-12 col-md-3 col-xl-2">
+                {% include components/sidebar.html %}
+            </nav>
+            <main class="c-page__main p-l-3 p-r-2 col-sm-12 offset-md-3 col-md-9 offset-xl-2 col-xl-10">
+                {{ content }}
+            </main>
+        </div>
+    </div>
+{% include components/footer.html %}
+{% include components/scripts.html %}
+{% if site.tracking_id %}{% include components/google-analytics.html %}{% endif %}
+</body>
+</html>

@@ -1,0 +1,37 @@
+# Site settings
+# -------------
+baseurl : /1617_webd3 # the subpath of your site, e.g. /blog
+colour  : primary
+language: nl
+
+# SEO
+# ---
+title      : &title WEBD-III
+description: Webdesign III.
+author     : Evelien Rutsaert
+# tracking_id: "XX-XXXXXXXX-X"
+# url        :
+# image      :
+
+# Build settings
+# --------------
+gems:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  style: compressed
+exclude:
+  - src/
+  - Gemfile
+  - README.md

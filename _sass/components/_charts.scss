@@ -1,0 +1,17 @@
+/// Charts
+
+.chart {
+  .chart__label {
+    font-family: $font-sans-serif;
+    font-size: 1.25rem;
+    &--center {
+      font-size: 1.5rem;
+    }&--inner {
+      fill: white;
+    }
+    &--center,
+    &--outer {
+      font-weight: bold;
+    }
+  }
+}

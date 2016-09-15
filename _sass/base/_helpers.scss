@@ -1,0 +1,9 @@
+/// Helpers
+
+.ahs- {
+  @each $color in 'oranje' 'groen' 'fuchsia' 'blauw' 'lichtgrijs' 'middengrijs' 'donkergrijs' {
+    &#{$color} {
+      color: map_get($color-ahs, $color);
+    }
+  }
+}

@@ -1,0 +1,53 @@
+---
+---
+@charset "UTF-8";
+
+/// Import partials from `sass_dir` (defaults to `_sass`)
+
+/// The 7-1 Pattern (http://sass-guidelin.es/#the-7-1-pattern)
+
+// 1. Configuration and helpers
+@import
+  'abstracts/variables',
+  'abstracts/functions',
+  'abstracts/mixins',
+  'abstracts/placeholders';
+
+// 2. Vendors
+//@import
+//  'vendor/normalize';
+
+// 3. Base stuff
+@import
+  'base/base',
+  'base/fonts',
+  'base/helpers',
+  'base/typography';
+
+// 4. Layout-related sections
+@import
+  'layout/aside',
+  'layout/container',
+  'layout/footer',
+  'layout/footnotes',
+  'layout/header';
+
+// 5. Components
+@import
+  'components/buttons',
+  'components/charts',
+  'components/covers',
+  'components/keyboard',
+  'components/lists',
+  'components/markers',
+  'components/syntax-highlighting',
+  'components/timeline';
+
+// 6. Page-specific styles
+@import
+  'pages/home';
+
+// 7. Themes
+@import
+  'themes/default',
+  'themes/solarized-light';
