@@ -10,7 +10,7 @@ tags      :
 
 |Info|   |
 |----|---|
-|Olod|CMP I|
+|Olod|Webdesign III|
 |Auteur(s)|Bart Missant, Stijn Anseel, Evelien Rutsaert|
 |Opleiding|Bachelor in de Grafische en digitale media|
 |Academiejaar|2016-17|
