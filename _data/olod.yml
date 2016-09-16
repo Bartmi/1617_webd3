@@ -1,0 +1,45 @@
+title:
+  full : Webdesign III
+  short: WEBD-III
+
+copyright:
+  year: 2016-2017
+  owner: &owner Evelien Rutsaert
+  institute:
+    en: Artevelde University College Ghent
+    nl: Arteveldehogeschool
+
+programme:
+  degree:
+    en: Bachelor of Graphical and Digital Media
+    nl: Bachelor in de grafische en digitale media
+  major:
+    en: Cross-media Design
+    nl: Crossmedia-ontwerp
+  minor:
+    full : "Graphic Design & Photo Design"
+    short: "GD & PD"
+
+course:
+  chamilo_id: "0000"
+  ects_fiche: "https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=57151&b=5&c=1"
+
+authors:
+  - name:
+      full   : *owner
+      short  : E. Rutsaert
+      code   : ER
+    email    : evelien.rutsaert@arteveldehs.be
+    website  : ~1
+    bitbucket: ~2
+
+workload:
+  credits: 6
+  hours:
+    - "Hoor- en werkcolleges": 39
+    - "Praktijk"             : 19
+    - "Taken in zelfstudie"  : 89
+    - "Toets- en examentijd" :  1
+  time:
+    commitment: 148 uur
+    equivalent: "4 weken"

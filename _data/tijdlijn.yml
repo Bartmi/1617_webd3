@@ -1,0 +1,230 @@
+# Semester 1
+# ----------
+
+# Week 01
+- week: "01"
+  date: 2016-09-26
+  icon: flag-o
+  type: important
+  content: |
+    # Kick-off
+    - Algemene informatie
+    - WIP
+
+# Week 02
+- week: "02"
+  date: 2016-10-03
+  content: |
+    # WIP
+
+# Week 03
+- week: "03"
+  date: 2016-10-10
+  content: |
+    # WIP
+
+# Week 04
+- week: "04"
+  date: 2016-10-17
+  icon: map-pin
+  type: important
+  milestone:
+    uri: "/opdracht/#milestone-1"
+    label: Milestone 1
+    small: Voorbereiding klaar
+
+- week: "04"
+  date: 2016-10-19
+  content: |
+    # WIP
+
+# Week 05
+- week: "05"
+  date: 2016-10-24
+  content: |
+    # WIP
+
+- week: "05"
+  date: 2016-10-26
+  content: |
+    # WIP
+
+# Autumn
+- icon: leaf
+  type: trivial
+  content: |
+    {::nomarkdown}
+    Herfstperiode
+    {:/}
+
+# Week 06
+- week: "06"
+  date: 2016-11-07
+  icon: map-pin
+  type: important
+  milestone:
+    uri: "/opdracht/#milestone-2"
+    label: Milestone 2
+    small: Alpha-versie
+
+- week: "06"
+  date: 2016-11-09
+  week: 7
+  content: |
+    # WIP
+
+# - date: 2016-11-11
+#   icon: calendar-check-o
+#   type: trivial
+#   content: |
+#     {::nomarkdown}
+#     Wapenstilstand
+#     {:/}
+
+# Week 07
+- week: "07"
+  date: 2016-11-14
+  content: |
+     # WIP
+
+- week: "07"
+  date: 2016-11-16
+  content: |
+     # WIP
+
+# Week 08
+- week: "08"
+  date: 2016-11-21
+  content: |
+     # WIP
+
+- week: "08"
+  date: 2016-11-23
+  content: |
+     # WIP
+
+# Week 09
+- week: "09"
+  date: 2016-11-28
+  content: |
+     # WIP
+
+- week: "09"
+  date: 2016-11-30
+  content: |
+     # WIP
+
+# Week 10
+- week: "10"
+  date: 2016-12-05
+  icon: map-pin
+  type: important
+  milestone:
+    uri: "/opdracht/#milestone-3"
+    label: Milestone 3
+    small: Beta-versie
+
+- week: "10"
+  date: 2016-12-07
+  content: |
+    # WIP
+
+# Week 11
+- week: "11"
+  date: 2016-12-12
+  content: |
+    # WIP
+
+- week: "11"
+  date: 2016-12-14
+  content: |
+    # WIP
+
+# Week 12
+- week: "12"
+  date: 2016-12-19
+  content: |
+   # WIP
+
+- week: "11"
+  date: 2016-12-21
+  content: |
+   # WIP
+
+# Hand in 1
+- date: 2016-12-23
+  icon: flag-checkered
+  type: important
+  milestone:
+    uri: "/opdracht/#milestone-4"
+    label: Milestone 4
+    small: Release Candidate-versie 1EK
+
+# Timetable 1
+- date: 2016-12-24
+  icon: clock-o
+  chamilo: 1EK
+
+# Christmas
+- icon: tree
+  type: trivial
+  content: |
+    {::nomarkdown}
+    Kerstperiode
+    {:/}
+
+# Exam 1
+- date: 
+  icon: university
+  type: important
+  milestone:
+    uri: "/opdracht/#milestone-exam-oral"
+    label: Mondeling Examen
+    small: Presentatie 1EK
+
+# Easter
+- icon: sun-o
+  type: trivial
+  content: |
+    {::nomarkdown}
+    Paasperiode
+    {:/}
+
+# Summer
+- icon: plane
+  type: trivial
+  content: |
+    {::nomarkdown}
+    Zomerperiode
+    {:/}
+
+# Hand in 2
+- date: 2017-08-16
+  icon: flag-checkered
+  type: important
+  milestone:
+    uri: "/opdracht/#milestone-4"
+    label: Milestone 4
+    small: Release Candidate-versie 2EK
+
+# Timetable 2
+- date: 2017-08-17
+  icon: clock-o
+  chamilo: 2EK
+
+# Exam 2
+- date: 
+  icon: university
+  type: important
+  milestone:
+    uri: "/opdracht/#milestone-exam-oral"
+    label: Mondeling Examen
+    small: Presentatie 2EK
+
+# End
+- icon: glass
+  type: trivial
+  content: |
+    {::nomarkdown}
+    Time for a drink!
+    {:/}

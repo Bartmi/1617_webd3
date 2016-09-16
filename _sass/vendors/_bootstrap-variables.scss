@@ -1,0 +1,28 @@
+// Variables
+//
+// Copy settings from this file into the provided `_custom.scss` to override
+// the Bootstrap defaults without modifying key, versioned files.
+
+
+// Table of Contents
+//
+// Colors
+// Options
+// Spacing
+// Body
+// Links
+// Grid breakpoints
+// Grid containers
+// Grid columns
+// Fonts
+// Components
+
+// Colors
+//
+// Grayscale and brand colors for use across Bootstrap.
+
+$brand-primary:             map_get($color-ahs, 'blauw'      ) !default; // #0275d8 !default;
+$brand-success:             map_get($color-ahs, 'groen'      ) !default; // #5cb85c !default;
+$brand-info:                map_get($color-ahs, 'middengrijs') !default; // #5bc0de !default;
+$brand-warning:             map_get($color-ahs, 'oranje'     ) !default; // #f0ad4e !default;
+$brand-danger:              map_get($color-ahs, 'fuchsia'    ) !default; // #d9534f !default;
